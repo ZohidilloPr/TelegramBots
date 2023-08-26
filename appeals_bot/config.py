@@ -9,12 +9,12 @@ DB_USER = config("DB_USER")
 DB_HOST = config("DB_HOST")
 
 # --- The end of Secret information of developer ---
+id = "group id"
+ADMINS = [id]
 
-ADMINS = [1388108281, 552784815]
-
-GROUP_CHAT_ID = [-1001876222853]
-RESPOND_GROUPS = [-1001876222853, -978319543]
+GROUP_CHAT_ID = [id]
+RESPOND_GROUPS = [id]
 GROUPS = {
-    "fuqoro": -1001876222853,
-    "tadbirkor": -978319543,
+    "fuqoro": id,
+    "tadbirkor": id,
 }   
