@@ -1,0 +1,4 @@
+online/
+__pycache__/
+.vscode/
+.env

@@ -1,0 +1,54 @@
+Collecting pyTelegramBotAPI
+  Using cached pyTelegramBotAPI-4.12.0-py3-none-any.whl
+Collecting requests
+  Using cached requests-2.31.0-py3-none-any.whl (62 kB)
+Collecting certifi>=2017.4.17
+  Using cached certifi-2023.7.22-py3-none-any.whl (158 kB)
+Collecting charset-normalizer<4,>=2
+  Using cached charset_normalizer-3.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (202 kB)
+Collecting urllib3<3,>=1.21.1
+  Using cached urllib3-2.0.4-py3-none-any.whl (123 kB)
+Collecting psycopg2-binary
+  Using cached psycopg2_binary-2.9.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.0 MB)
+Collecting idna<4,>=2.5
+  Using cached idna-3.4-py3-none-any.whl (61 kB)
+Installing collected packages: psycopg2-binary
+Installing collected packages: urllib3, idna, charset-normalizer, certifi, requests, pyTelegramBotAPI
+Successfully installed psycopg2-binary-2.9.7
+  WARNING: The script normalizer is installed in '/home/zohidillo/Desktop/telegram_bot/market_bot/online/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed certifi-2023.7.22 charset-normalizer-3.2.0 idna-3.4 pyTelegramBotAPI-4.12.0 requests-2.31.0 urllib3-2.0.4
+Collecting python-decouple
+  Using cached python_decouple-3.8-py3-none-any.whl (9.9 kB)
+Installing collected packages: python-decouple
+Successfully installed python-decouple-3.8
+Collecting pandas
+  Using cached pandas-2.0.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+Collecting tzdata>=2022.1
+  Using cached tzdata-2023.3-py2.py3-none-any.whl (341 kB)
+Collecting pytz>=2020.1
+  Using cached pytz-2023.3-py2.py3-none-any.whl (502 kB)
+Collecting numpy>=1.20.3
+  Using cached numpy-1.25.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (18.3 MB)
+Collecting python-dateutil>=2.8.2
+  Using cached python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: six, tzdata, pytz, python-dateutil, numpy, pandas
+Collecting SQLAlchemy
+  Using cached SQLAlchemy-2.0.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.0 MB)
+Collecting typing-extensions>=4.2.0
+  Using cached typing_extensions-4.7.1-py3-none-any.whl (33 kB)
+Collecting openpyxl
+  Using cached openpyxl-3.1.2-py2.py3-none-any.whl (249 kB)
+Collecting et-xmlfile
+  Using cached et_xmlfile-1.1.0-py3-none-any.whl (4.7 kB)
+Installing collected packages: et-xmlfile, openpyxl
+Collecting greenlet!=0.4.17
+  Using cached greenlet-2.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (610 kB)
+Installing collected packages: typing-extensions, greenlet, SQLAlchemy
+Successfully installed et-xmlfile-1.1.0 openpyxl-3.1.2
+Successfully installed SQLAlchemy-2.0.20 greenlet-2.0.2 typing-extensions-4.7.1
+  WARNING: The scripts f2py, f2py3 and f2py3.9 are installed in '/home/zohidillo/Desktop/telegram_bot/market_bot/online/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed numpy-1.25.2 pandas-2.0.3 python-dateutil-2.8.2 pytz-2023.3 six-1.16.0 tzdata-2023.3
